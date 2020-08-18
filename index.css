@@ -31,3 +31,8 @@ button {
     background: var(--red);
     color: var(--yellow);
 }
+
+.featured {
+    --yellow: #ffe55b;
+    --red: #ff5564;
+} 
