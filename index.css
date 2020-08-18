@@ -13,17 +13,13 @@ h1, p {
     color: var(--red);
 }
 
-#navbar {
-    --nav-red: #ff6f19;
-}
-
 #navbar a {
     color: var(--red);
 }
 
 .item {
     --item-yellow: #fffc5c;
-    --red: #ff8e69;
+    /* --red: #ff8e69; */
     background: var(--item-yellow);
 }
 
@@ -32,7 +28,7 @@ button {
     color: var(--yellow);
 }
 
-.featured {
+/* .featured {
     --yellow: #ffe55b;
     --red: #ff5564;
-} 
+}  */
